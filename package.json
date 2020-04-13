@@ -1,8 +1,8 @@
 {
-  "name": "epidemic-charts",
+  "name": "web-control",
   "version": "1.0.0",
   "private": true,
-  "description": "A Vue.js project",
+  "description": "针对用户操作记录",
   "author": "yong",
   "scripts": {
     "build": "node build/build.js",
